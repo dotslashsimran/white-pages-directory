@@ -1,0 +1,100 @@
+{
+  "sections": [
+    {
+      "id": "building",
+      "title": "Building",
+      "entries": [
+        {
+          "id": "craft",
+          "title": "Craft",
+          "description": "Implementing interfaces and interactions with attention to detail",
+          "url": "#"
+        },
+        {
+          "id": "systems",
+          "title": "Design Systems",
+          "description": "Building scalable component libraries and design infrastructure",
+          "url": "#"
+        },
+        {
+          "id": "architecture",
+          "title": "Architecture",
+          "description": "Thinking through systems, patterns, and scalable solutions",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "projects",
+      "title": "Projects",
+      "entries": [
+        {
+          "id": "project-a",
+          "title": "Project A",
+          "description": "An experiment in something interesting and worth exploring",
+          "url": "#"
+        },
+        {
+          "id": "project-b",
+          "title": "Project B",
+          "description": "Another meaningful work that demonstrates capability and vision",
+          "url": "#"
+        },
+        {
+          "id": "project-c",
+          "title": "Project C",
+          "description": "Ongoing exploration of ideas and potential solutions",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "title": "Writing",
+      "entries": [
+        {
+          "id": "essay-one",
+          "title": "On Design and Intention",
+          "description": "Thinking about how intention shapes the objects we create",
+          "url": "#"
+        },
+        {
+          "id": "essay-two",
+          "title": "Technology and Humanity",
+          "description": "Exploring the intersection of tools and the people who use them",
+          "url": "#"
+        },
+        {
+          "id": "essay-three",
+          "title": "The Craft of Code",
+          "description": "Why the details matter, and how care compounds over time",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "elsewhere",
+      "title": "Elsewhere",
+      "entries": [
+        {
+          "id": "github",
+          "title": "GitHub",
+          "description": "Open source work and code exploration",
+          "url": "#"
+        },
+        {
+          "id": "twitter",
+          "title": "Twitter",
+          "description": "Thoughts and observations on design and technology",
+          "url": "#"
+        },
+        {
+          "id": "notes",
+          "title": "Notes",
+          "description": "A personal knowledge base and thinking space",
+          "url": "#"
+        }
+      ]
+    }
+  ]
+}
